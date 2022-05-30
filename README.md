@@ -1,1 +1,1 @@
-# Various-Recommender-Systems-proejcts
+# Various-Recommender-Systems-projects
